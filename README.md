@@ -3,4 +3,4 @@ A Question Answering chatbot powered by GPT-3 answer synthesis and sentence-tran
 
 Currently works with [FAISS](https://github.com/facebookresearch/faiss) but can easily be used with other vector DBs like qdrant, chroma, pinecone, etc for better scalability.
 
-A Demo app can be found [here](https://huggingface.co/spaces/adirtha1903/CapedConversations/blob/main/app.py)
+A Demo app can be found [here](https://huggingface.co/spaces/adirtha1903/CapedConversations)
