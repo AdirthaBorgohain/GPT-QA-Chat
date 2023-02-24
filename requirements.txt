@@ -1,0 +1,7 @@
+gradio==3.19.1
+langchain==0.0.93
+llama_index==0.4.12
+openai==0.26.5
+faiss_cpu
+sentence_transformers
+transformers
